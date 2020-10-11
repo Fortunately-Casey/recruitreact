@@ -1,0 +1,12 @@
+export const SET_ROUTER_INDEX = "/adminPage/setRouterIndex"; //路由index
+export const SET_ISSHOW_ADD = "/adminPage/setIsShowAdd"; //是否展示新增页面
+export const SET_NEWS_LIST = "/adminPage/setNewsList"; //新闻列表
+export const SHOW_DELETE_MODAL = "/adminPage/showDeleteModal"; //删除Modal
+export const SET_ISSHOW_LOADING = "/adminPage/setIsShowLoading"; //loading
+export const SET_NEWS_TITLE = "/adminPage/setNewsTitle"; //新闻标题
+export const SET_NEWS_URL = "/adminPage/setNewsUrl"; //新闻链接地址
+export const IS_SHOW_ERROR = "/adminPage/setShowError"; //失败弹窗
+export const IS_SHOW_SUCCESS = "/adminPage/setShowSuccess"; //成功弹窗
+export const IS_SHOW_ADDBOX = "/adminPage/setShowAddbox"; //新增窗口
+export const TOGGLE_ISSHOW_EDIT = "/adminPage/toggleIsShowEdit"; //新增窗口
+export const SET_EDIT_ID = "/adminPage/setEditID"; //设置修改ID

@@ -1,0 +1,1 @@
+export const CHANGE_LOGIN_STATUS = "/login/changeLoginStatus"; //更改登录页状态

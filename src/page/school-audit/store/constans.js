@@ -1,0 +1,15 @@
+export const SET_SAVE_LIST = "/schoolAudit/setSaveList"; //未审核列表
+export const SET_SAVE_LIST1 = "/schoolAudit/setSaveList"; //未审核列表
+export const SET_PROVINCE_LIST = "/schoolAudit/setProvinceList"; //设置省
+export const SET_CITY_LIST = "/schoolAudit/setCityList"; //设置市
+export const SET_AREA_LIST = "/schoolAudit/setAreaList"; //设置区/县
+export const SET_STREET_LIST = "/schoolAudit/setStreetList"; //设置街道
+export const SET_COMMUNITY_LIST = "/schoolAudit/setCommunityList"; //设置社区
+export const SET_SMALLCOMMUNITY_LIST = "/schoolAudit/setSmallCommunityList"; //设置小区
+export const SET_SCHOOLLIST_LIST = "/schoolAudit/setSmallList"; //设置学校
+export const SET_LEVEL_LIST = "/schoolAudit/setLevelList"; //设置等级列表
+export const SET_LEVEL_INDEX = "/schoolAudit/setLevelIndex"; //设置等级列表
+export const SET_CROSS_INDEX = "/schoolAudit/setCrossIndex"; //设置是否批准
+export const TOGGLE_LOADING = "/schoolAudit/toggleLoading"; //切换loading状态
+export const SET_ROUTER_INDEX = "/schoolAudit/setRouterIndex"; //tab栏路由状态
+export const SET_ISSHOW_AUDIT = "/schoolAudit/setIsShowAudit"; //是否展示审核
